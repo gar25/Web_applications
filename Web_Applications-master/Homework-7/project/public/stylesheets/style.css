@@ -1,0 +1,71 @@
+		body {
+		  padding: 50px;
+		  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+		}
+
+		a {
+		  color: #00B7FF;
+		}
+		table{
+			display: inline-block;
+		}
+		#myTable{
+			display: ;
+		}
+		#reset{
+			display: none;
+		}
+		td{
+			width: 200px;
+			height: 50px;
+			text-align: center;
+		}
+		#game{
+			display: 
+		}
+		#gameCounter{
+		}
+		.show{
+			background-color: green;
+			color: black;
+		}
+		.show1{
+			background-color: green;
+			color: green;
+		}
+		#row0{
+			background-color: green;
+			color: green;
+			display: none;
+		}
+		#row1 {
+			background-color: green;
+			color: green;
+			display: none;
+		}
+		#row2 {
+			background-color: green;
+			color: green;
+			display: none;
+		}
+		#row3 {
+			background-color: green;
+			color: green;
+			display: none;
+		}
+		#row4 {
+			background-color: green;
+			display: none;
+		}
+		#row5 {
+			background-color: green;
+			display: none;
+		}
+		#row6 {
+			background-color: green;
+			display: none;
+		}
+		#row7 {
+			background-color: green;
+			display: none;
+		}

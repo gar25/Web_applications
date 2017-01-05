@@ -1,0 +1,13 @@
+<h3>Bird Sightings Page</h3>
+
+<body>
+{{#each birds}}
+	<li>{{this.name}}{{this.count}}</li>
+{{/each}}
+</body>
+
+<strong>Enter the name of the bird:</strong>
+<form method="POST" action="/birds">
+Enter bird name: <input type="text" name="myName">
+<input type="submit">
+</form>

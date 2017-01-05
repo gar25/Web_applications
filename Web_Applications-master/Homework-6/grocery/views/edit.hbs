@@ -1,0 +1,29 @@
+<h1>Add items to your list</h1>
+
+<head>
+<a href="http://localhost:3000/list/create">Create a list</a>
+<a href="http://localhost:3000/list">View all lists</a>
+</head>
+
+<body>
+<p>
+{{lists.name}}
+</p>
+</body>
+
+<form method="POST" action="">
+Quantity: <input type="text" name="itemCount">
+Item: <input type="text" name="itemName">
+<input type="submit">
+</form>
+
+<p>
+Handlebars is not working with objects don't know. List items are inside of the object. These should be easily
+obtained through the use of helper blocks and items array inside of the list object that is rendered
+{{#each lists.items}}
+	{{this.name}}
+{{/each}}
+</p>
+<p>
+Adding authentication to the website to finish up.
+</p>

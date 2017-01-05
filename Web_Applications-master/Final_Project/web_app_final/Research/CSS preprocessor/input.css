@@ -1,0 +1,22 @@
+:root{
+		--green: #a6c776;
+}
+/* Variables */
+a{
+	color: var(--green);
+	font-variant: all-small-caps;
+}
+/* Math */
+pre {
+	margin: calc(50px * 2);
+}
+/* Custom media queries */
+
+/* Color Manipulation */
+a {
+	color: #847AD1;
+}
+
+a:hover{
+	color: color(#847AD1 tint(20%));
+}

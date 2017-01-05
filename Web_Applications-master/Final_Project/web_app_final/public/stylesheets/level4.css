@@ -1,0 +1,33 @@
+#level4_part1{
+	color: green;
+	text-align: center;
+	display: none;
+}
+#level4_list{
+	color: green;
+	list-style-type: none;
+	margin: auto;
+	text-align: center;
+	display: none;
+}
+#level4_answers{
+	color: green;
+	margin: auto;
+	text-align: center;
+	display: none;
+}
+#first_structure{
+	margin: auto;
+}
+#second_structure{
+	margin: auto;
+}
+#third_structure{
+	margin: auto;
+}
+#fourth_structure{
+	margin: auto;
+}
+#fifth_structure{
+	margin: auto;
+}

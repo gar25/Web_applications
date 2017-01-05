@@ -1,0 +1,17 @@
+{
+  "name": "moviedatabase",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "handlebars": "^4.0.5",
+    "mongoose": "^4.3.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}

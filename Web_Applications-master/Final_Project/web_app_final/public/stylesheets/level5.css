@@ -1,0 +1,17 @@
+#level5_part1{
+	color: green;
+}
+#level5_list{
+	color: green;
+	list-style-type: none;
+	margin: auto;
+	text-align: center;
+}
+#number_answer{
+	margin: auto;
+}
+#level5_answers{
+	margin: auto;
+	text-align: center;
+	display: none;
+}

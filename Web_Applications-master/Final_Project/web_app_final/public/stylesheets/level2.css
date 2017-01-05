@@ -1,0 +1,40 @@
+#level2_part1{
+	color: green;
+}
+#color_answers{
+	text-align: center;
+	display: none;
+}
+#level2_colors_list{
+	list-style-type: none;
+	text-align: center;
+	margin: auto;
+}
+#level2_colors{
+	display: none;
+}
+#first_color{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#second_color{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#third_color{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#fourth_color{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#fifth_color{
+	display: none;
+	color: green;
+	margin: auto;
+}

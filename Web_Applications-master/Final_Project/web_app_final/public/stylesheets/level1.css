@@ -1,0 +1,35 @@
+#level1_part1{
+	display: none;
+	text-align: center;
+}
+#level1_part2{
+	display: none;
+}
+#info_level1_part1{
+	color: green;
+	text-align: center;
+	display: none;
+}
+#level1_animals{
+	display: none;
+	color: green;
+}
+#animal_answers{
+	display: none;
+	color: green;
+}
+#first_animal{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#second_animal{
+	display: none;
+	color: green;
+	margin: auto;
+}
+#third_animal{
+	display: none;
+	color: green;
+	margin: auto;
+}

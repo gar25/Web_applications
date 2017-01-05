@@ -1,0 +1,34 @@
+#level3_part1{
+	color: green;
+	text-align: center;
+	display: none;
+	margin: auto;
+}
+#level3_animal_list{
+	list-style-type: none;
+	text-align: center;
+	margin: auto;
+}
+#animal_answers{
+	display: none;
+}
+#first_animal{
+	display: none;
+	margin: auto;
+}
+#second_animal{
+	display: none;
+	margin: auto;
+}
+#third_animal{
+	display: none;
+	margin: auto;
+}
+#fourth_animal{
+	display: none;
+	margin: auto;
+}
+#fifth_animal{
+	display: none;
+	margin: auto;
+}

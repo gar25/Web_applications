@@ -1,0 +1,21 @@
+<h1>Listing of all the movies in the database</h1>
+<body>
+<a href="http://localhost:3000/movies">Reset?</a>
+<form method="GET" action="/movies">
+	Filter the movies by director
+	<input type="text" name="d_name">
+	<input type="submit">
+</form>
+</body>
+<p></p>
+<body>
+{{#each movies}}
+<table>
+  <tr>
+    <td>{{title}}</td>
+    <td>{{year}}</td> 
+    <td>{{director}}</td>
+  </tr>
+</table>
+{{/each}}
+</body>
